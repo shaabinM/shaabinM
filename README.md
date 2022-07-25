@@ -18,7 +18,10 @@
   <h2>GITHUB STATS</h2>
 
 
-| <a href="https://github.com/ShaabinM/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaabinM&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Shaabin's github stats" /></a> | <a href="https://github.com/ShaabinM/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaabinM&layout=compact&theme=react&hide_border=false" /></a> |
+<a href="https://github.com/ShaabinM/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaabinM&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Shaabin's github stats" /></a> 
+
+  
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=shaabinM&layout=compact&langs_count=8&hide_border=false&theme=react)
   <br>
   <hr color="grey">
   <h2 style="color:green;"> LANGUAGES & TOOLS</h2>
