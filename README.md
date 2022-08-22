@@ -13,6 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=My+Name+Is+Shaabin.)](https://git.io/typing-svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=Welcome+To+My+GitHub+Profile.)](https://git.io/typing-svg)
+  <br>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t6pj7dwneysfbef2wwa7ri4ds4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br>
   <hr color="grey">
   <h2>GITHUB STATS</h2>
@@ -22,7 +24,9 @@
 
   
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=shaabinM&layout=compact&langs_count=8&hide_border=false&theme=react)
+  
   <br>
+  
   <hr color="grey">
   <h2 style="color:green;"> LANGUAGES & TOOLS</h2>
   <br>
