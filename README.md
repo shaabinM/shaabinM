@@ -14,7 +14,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=Welcome+To+My+GitHub+Profile.)](https://git.io/typing-svg)
   <br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t6pj7dwneysfbef2wwa7ri4ds4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t6pj7dwneysfbef2wwa7ri4ds4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br>
   <hr color="grey">
   <h2>GITHUB STATS</h2>
